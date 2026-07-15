@@ -1,4 +1,4 @@
-# Mamta Katariya — Portfolio
+# Divyang Katariya — Portfolio
 
 A personal portfolio site for Mamta Katariya, Graphic & Packaging Designer.
 Built with plain HTML/CSS/JS — no build step, no dependencies to install.
